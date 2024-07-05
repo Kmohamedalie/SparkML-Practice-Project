@@ -6,4 +6,4 @@ Welcome to this [practice project](https://github.com/Kmohamedalie/sparkML-proje
 <br>
 
 ## **[Final Case](https://www.coursera.org/learn/machine-learning-with-apache-spark/supplement/DCKKu/final-project-overview)**
-Welcome to the final project of this course! In this project, you will work with the modified version of the NASA Airfoil Self Noise dataset. The goal is to clean the dataset, create a Machine Learning pipeline, evaluate the model's performance, and persist it for future use.
+Welcome to the [final project](https://github.com/Kmohamedalie/sparkML-projects/blob/master/Final_Project.ipynb) of this course! In this project, you will work with the modified version of the NASA Airfoil Self Noise dataset. The goal is to clean the dataset, create a Machine Learning pipeline, evaluate the model's performance, and persist it for future use.
